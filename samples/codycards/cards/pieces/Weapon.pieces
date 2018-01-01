@@ -1,0 +1,78 @@
+@category=Weapon
+@image.front=Weapon_1_Knife
+@image.src=../srcimages/Weapon\1 Knife.png
+@title=Knife
+@value=1
+--
+@category=Weapon
+@image.front=Weapon_10_Battle Tank
+@image.src=../srcimages/Weapon\10 Battle Tank.png
+@title=Battle Tank
+@value=10
+--
+@category=Weapon
+@image.front=Weapon_10J_Laser Beam
+@image.src=../srcimages/Weapon\10J Laser Beam.png
+@title=Laser Beam
+@value=10J
+--
+@category=Weapon
+@image.front=Weapon_10K_Nuclear Bomb
+@image.src=../srcimages/Weapon\10K Nuclear Bomb.png
+@title=Nuclear Bomb
+@value=10K
+--
+@category=Weapon
+@image.front=Weapon_10Q_Napalm
+@image.src=../srcimages/Weapon\10Q Napalm.png
+@title=Napalm
+@value=10Q
+--
+@category=Weapon
+@image.front=Weapon_2_Bow and Arrow
+@image.src=../srcimages/Weapon\2 Bow and Arrow.jpg
+@title=Bow and Arrow
+@value=2
+--
+@category=Weapon
+@image.front=Weapon_3_Pistol
+@image.src=../srcimages/Weapon\3 Pistol.png
+@title=Pistol
+@value=3
+--
+@category=Weapon
+@image.front=Weapon_4_Dart Gun
+@image.src=../srcimages/Weapon\4 Dart Gun.png
+@title=Dart Gun
+@value=4
+--
+@category=Weapon
+@image.front=Weapon_5_Shotgun
+@image.src=../srcimages/Weapon\5 Shotgun.png
+@title=Shotgun
+@value=5
+--
+@category=Weapon
+@image.front=Weapon_6_Grenade
+@image.src=../srcimages/Weapon\6 Grenade.png
+@title=Grenade
+@value=6
+--
+@category=Weapon
+@image.front=Weapon_7_Bazooka
+@image.src=../srcimages/Weapon\7 Bazooka.png
+@title=Bazooka
+@value=7
+--
+@category=Weapon
+@image.front=Weapon_8_Dynamite
+@image.src=../srcimages/Weapon\8 Dynamite.png
+@title=Dynamite
+@value=8
+--
+@category=Weapon
+@image.front=Weapon_9_Attack Robot
+@image.src=../srcimages/Weapon\9 Attack Robot.png
+@title=Attack Robot
+@value=9
+--

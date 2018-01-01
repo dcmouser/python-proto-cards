@@ -1,0 +1,78 @@
+@category=Bribe
+@image.front=Bribe_1_Worm
+@image.src=../srcimages/Bribe\1 Worm.png
+@title=Worm
+@value=1
+--
+@category=Bribe
+@image.front=Bribe_10_Fish
+@image.src=../srcimages/Bribe\10 Fish.png
+@title=Fish
+@value=10
+--
+@category=Bribe
+@image.front=Bribe_10J_Gold Bars
+@image.src=../srcimages/Bribe\10J Gold Bars.png
+@title=Gold Bars
+@value=10J
+--
+@category=Bribe
+@image.front=Bribe_10K_Fancy Nest
+@image.src=../srcimages/Bribe\10K Fancy Nest.png
+@title=Fancy Nest
+@value=10K
+--
+@category=Bribe
+@image.front=Bribe_10Q_Treasure Chest
+@image.src=../srcimages/Bribe\10Q Treasure Chest.png
+@title=Treasure Chest
+@value=10Q
+--
+@category=Bribe
+@image.front=Bribe_2_Flowers
+@image.src=../srcimages/Bribe\2 Flowers.png
+@title=Flowers
+@value=2
+--
+@category=Bribe
+@image.front=Bribe_3_Fancy Feather
+@image.src=../srcimages/Bribe\3 Fancy Feather.png
+@title=Fancy Feather
+@value=3
+--
+@category=Bribe
+@image.front=Bribe_4_Chocolate
+@image.src=../srcimages/Bribe\4 Chocolate.png
+@title=Chocolate
+@value=4
+--
+@category=Bribe
+@image.front=Bribe_5_Cookies
+@image.src=../srcimages/Bribe\5 Cookies.png
+@title=Cookies
+@value=5
+--
+@category=Bribe
+@image.front=Bribe_6_Cake
+@image.src=../srcimages/Bribe\6 Cake.png
+@title=Cake
+@value=6
+--
+@category=Bribe
+@image.front=Bribe_7_Bird Bath
+@image.src=../srcimages/Bribe\7 Bird Bath.png
+@title=Bird Bath
+@value=7
+--
+@category=Bribe
+@image.front=Bribe_8_Coins
+@image.src=../srcimages/Bribe\8 Coins.jpg
+@title=Coins
+@value=8
+--
+@category=Bribe
+@image.front=Bribe_9_Shiny Diamond
+@image.src=../srcimages/Bribe\9 Shiny Diamond.png
+@title=Shiny Diamond
+@value=9
+--

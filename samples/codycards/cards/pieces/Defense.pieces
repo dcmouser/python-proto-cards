@@ -1,0 +1,78 @@
+@category=Defense
+@image.front=Defense_1_Fence
+@image.src=../srcimages/Defense\1 Fence.png
+@title=Fence
+@value=1
+--
+@category=Defense
+@image.front=Defense_10_Electrified Fence
+@image.src=../srcimages/Defense\10 Electrified Fence.png
+@title=Electrified Fence
+@value=10
+--
+@category=Defense
+@image.front=Defense_10J_Radar Jammer
+@image.src=../srcimages/Defense\10J Radar Jammer.png
+@title=Radar Jammer
+@value=10J
+--
+@category=Defense
+@image.front=Defense_10K_MechaBird
+@image.src=../srcimages/Defense\10K MechaBird.png
+@title=MechaBird
+@value=10K
+--
+@category=Defense
+@image.front=Defense_10Q_Cage
+@image.src=../srcimages/Defense\10Q Cage.png
+@title=Cage
+@value=10Q
+--
+@category=Defense
+@image.front=Defense_2_Rope
+@image.src=../srcimages/Defense\2 Rope.png
+@title=Rope
+@value=2
+--
+@category=Defense
+@image.front=Defense_3_Scary Sign
+@image.src=../srcimages/Defense\3 Scary Sign.png
+@title=Scary Sign
+@value=3
+--
+@category=Defense
+@image.front=Defense_4_Scarecrow
+@image.src=../srcimages/Defense\4 Scarecrow.png
+@title=Scarecrow
+@value=4
+--
+@category=Defense
+@image.front=Defense_5_Poison Gas
+@image.src=../srcimages/Defense\5 Poison Gas.png
+@title=Poison Gas
+@value=5
+--
+@category=Defense
+@image.front=Defense_6_Poison Berries
+@image.src=../srcimages/Defense\6 Poison Berries.png
+@title=Poison Berries
+@value=6
+--
+@category=Defense
+@image.front=Defense_7_Bear Trap
+@image.src=../srcimages/Defense\7 Bear Trap.png
+@title=Bear Trap
+@value=7
+--
+@category=Defense
+@image.front=Defense_8_Moat
+@image.src=../srcimages/Defense\8 Moat.jpg
+@title=Moat
+@value=8
+--
+@category=Defense
+@image.front=Defense_9_Net
+@image.src=../srcimages/Defense\9 Net.png
+@title=Net
+@value=9
+--

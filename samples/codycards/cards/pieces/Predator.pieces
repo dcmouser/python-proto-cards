@@ -1,0 +1,78 @@
+@category=Predator
+@image.front=Predator_1_Honey Badger
+@image.src=../srcimages/Predator\1 Honey Badger.jpg
+@title=Honey Badger
+@value=1
+--
+@category=Predator
+@image.front=Predator_10_Hawk
+@image.src=../srcimages/Predator\10 Hawk.png
+@title=Hawk
+@value=10
+--
+@category=Predator
+@image.front=Predator_10J_Pterodactyl
+@image.src=../srcimages/Predator\10J Pterodactyl.png
+@title=Pterodactyl
+@value=10J
+--
+@category=Predator
+@image.front=Predator_10K_Shark
+@image.src=../srcimages/Predator\10K Shark.png
+@title=Shark
+@value=10K
+--
+@category=Predator
+@image.front=Predator_10Q_Giant Squid
+@image.src=../srcimages/Predator\10Q Giant Squid.png
+@title=Giant Squid
+@value=10Q
+--
+@category=Predator
+@image.front=Predator_2_Alligator
+@image.src=../srcimages/Predator\2 Alligator.png
+@title=Alligator
+@value=2
+--
+@category=Predator
+@image.front=Predator_3_Eagle
+@image.src=../srcimages/Predator\3 Eagle.png
+@title=Eagle
+@value=3
+--
+@category=Predator
+@image.front=Predator_4_Komodo Dragon
+@image.src=../srcimages/Predator\4 Komodo Dragon.png
+@title=Komodo Dragon
+@value=4
+--
+@category=Predator
+@image.front=Predator_5_Saber Tooth Tiger
+@image.src=../srcimages/Predator\5 Saber Tooth Tiger.png
+@title=Saber Tooth Tiger
+@value=5
+--
+@category=Predator
+@image.front=Predator_6_Viper Snake
+@image.src=../srcimages/Predator\6 Viper Snake.png
+@title=Viper Snake
+@value=6
+--
+@category=Predator
+@image.front=Predator_7_Wolf
+@image.src=../srcimages/Predator\7 Wolf.png
+@title=Wolf
+@value=7
+--
+@category=Predator
+@image.front=Predator_8_Great Ape
+@image.src=../srcimages/Predator\8 Great Ape.png
+@title=Great Ape
+@value=8
+--
+@category=Predator
+@image.front=Predator_9_Owl
+@image.src=../srcimages/Predator\9 Owl.png
+@title=Owl
+@value=9
+--

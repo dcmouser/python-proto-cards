@@ -1,0 +1,541 @@
+[
+{
+    "category": "Bribe", 
+    "title": "Worm", 
+    "image": {
+        "front": "outimages/Bribe_1_Worm.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "1"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Fish", 
+    "image": {
+        "front": "outimages/Bribe_10_Fish.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Gold Bars", 
+    "image": {
+        "front": "outimages/Bribe_10J_Gold Bars.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10J"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Fancy Nest", 
+    "image": {
+        "front": "outimages/Bribe_10K_Fancy Nest.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10K"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Treasure Chest", 
+    "image": {
+        "front": "outimages/Bribe_10Q_Treasure Chest.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10Q"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Flowers", 
+    "image": {
+        "front": "outimages/Bribe_2_Flowers.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "2"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Fancy Feather", 
+    "image": {
+        "front": "outimages/Bribe_3_Fancy Feather.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "3"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Chocolate", 
+    "image": {
+        "front": "outimages/Bribe_4_Chocolate.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "4"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Cookies", 
+    "image": {
+        "front": "outimages/Bribe_5_Cookies.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "5"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Cake", 
+    "image": {
+        "front": "outimages/Bribe_6_Cake.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "6"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Bird Bath", 
+    "image": {
+        "front": "outimages/Bribe_7_Bird Bath.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "7"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Coins", 
+    "image": {
+        "front": "outimages/Bribe_8_Coins.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "8"
+}
+,
+{
+    "category": "Bribe", 
+    "title": "Shiny Diamond", 
+    "image": {
+        "front": "outimages/Bribe_9_Shiny Diamond.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "9"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Fence", 
+    "image": {
+        "front": "outimages/Defense_1_Fence.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "1"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Electrified Fence", 
+    "image": {
+        "front": "outimages/Defense_10_Electrified Fence.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Radar Jammer", 
+    "image": {
+        "front": "outimages/Defense_10J_Radar Jammer.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10J"
+}
+,
+{
+    "category": "Defense", 
+    "title": "MechaBird", 
+    "image": {
+        "front": "outimages/Defense_10K_MechaBird.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10K"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Cage", 
+    "image": {
+        "front": "outimages/Defense_10Q_Cage.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10Q"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Rope", 
+    "image": {
+        "front": "outimages/Defense_2_Rope.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "2"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Scary Sign", 
+    "image": {
+        "front": "outimages/Defense_3_Scary Sign.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "3"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Scarecrow", 
+    "image": {
+        "front": "outimages/Defense_4_Scarecrow.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "4"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Poison Gas", 
+    "image": {
+        "front": "outimages/Defense_5_Poison Gas.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "5"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Poison Berries", 
+    "image": {
+        "front": "outimages/Defense_6_Poison Berries.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "6"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Bear Trap", 
+    "image": {
+        "front": "outimages/Defense_7_Bear Trap.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "7"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Moat", 
+    "image": {
+        "front": "outimages/Defense_8_Moat.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "8"
+}
+,
+{
+    "category": "Defense", 
+    "title": "Net", 
+    "image": {
+        "front": "outimages/Defense_9_Net.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "9"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Honey Badger", 
+    "image": {
+        "front": "outimages/Predator_1_Honey Badger.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "1"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Hawk", 
+    "image": {
+        "front": "outimages/Predator_10_Hawk.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Pterodactyl", 
+    "image": {
+        "front": "outimages/Predator_10J_Pterodactyl.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10J"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Shark", 
+    "image": {
+        "front": "outimages/Predator_10K_Shark.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10K"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Giant Squid", 
+    "image": {
+        "front": "outimages/Predator_10Q_Giant Squid.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10Q"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Alligator", 
+    "image": {
+        "front": "outimages/Predator_2_Alligator.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "2"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Eagle", 
+    "image": {
+        "front": "outimages/Predator_3_Eagle.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "3"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Komodo Dragon", 
+    "image": {
+        "front": "outimages/Predator_4_Komodo Dragon.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "4"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Saber Tooth Tiger", 
+    "image": {
+        "front": "outimages/Predator_5_Saber Tooth Tiger.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "5"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Viper Snake", 
+    "image": {
+        "front": "outimages/Predator_6_Viper Snake.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "6"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Wolf", 
+    "image": {
+        "front": "outimages/Predator_7_Wolf.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "7"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Great Ape", 
+    "image": {
+        "front": "outimages/Predator_8_Great Ape.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "8"
+}
+,
+{
+    "category": "Predator", 
+    "title": "Owl", 
+    "image": {
+        "front": "outimages/Predator_9_Owl.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "9"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Knife", 
+    "image": {
+        "front": "outimages/Weapon_1_Knife.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "1"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Battle Tank", 
+    "image": {
+        "front": "outimages/Weapon_10_Battle Tank.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Laser Beam", 
+    "image": {
+        "front": "outimages/Weapon_10J_Laser Beam.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10J"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Nuclear Bomb", 
+    "image": {
+        "front": "outimages/Weapon_10K_Nuclear Bomb.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10K"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Napalm", 
+    "image": {
+        "front": "outimages/Weapon_10Q_Napalm.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "10Q"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Bow and Arrow", 
+    "image": {
+        "front": "outimages/Weapon_2_Bow and Arrow.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "2"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Pistol", 
+    "image": {
+        "front": "outimages/Weapon_3_Pistol.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "3"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Dart Gun", 
+    "image": {
+        "front": "outimages/Weapon_4_Dart Gun.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "4"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Shotgun", 
+    "image": {
+        "front": "outimages/Weapon_5_Shotgun.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "5"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Grenade", 
+    "image": {
+        "front": "outimages/Weapon_6_Grenade.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "6"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Bazooka", 
+    "image": {
+        "front": "outimages/Weapon_7_Bazooka.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "7"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Dynamite", 
+    "image": {
+        "front": "outimages/Weapon_8_Dynamite.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "8"
+}
+,
+{
+    "category": "Weapon", 
+    "title": "Attack Robot", 
+    "image": {
+        "front": "outimages/Weapon_9_Attack Robot.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": "9"
+}
+,
+{
+    "category": "Xtras", 
+    "title": "Cody's Uncle", 
+    "image": {
+        "front": "outimages/Xtras__Cody's Uncle.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": ""
+}
+,
+{
+    "category": "Xtras", 
+    "title": "Cody", 
+    "image": {
+        "front": "outimages/Xtras__Cody.png", 
+        "back": "outimages/backs/BackImage.png"
+    }, 
+    "value": ""
+}
+]
